@@ -106,7 +106,7 @@ If you're using **PyCharm** for development, follow these steps:
 ## Technical Details
 
 ### Requirements
-- **Python Version**: 3.8.20
+- **Python Version**: 3.8.20 or python version > 3.8
 - **Dependencies**:
   - Mediapipe, NumPy, OpenCV, Keras, Matplotlib, Scipy
   - Additional packages: Pyttsx3, Cvzone, PyEnchant
